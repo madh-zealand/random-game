@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  padding: 8px;
+}
+
+.game-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  border: 1px solid #787878;
+}
+
+.player {
+  position: absolute;
+  background: darkcyan;
+  height: 32px;
+  width: 32px;
+}
+
+.icon {
+  background: #8b8900;
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  right: -8px;
+  bottom: -8px;
+}
