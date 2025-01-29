@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>Random Game</h1>
+    <p>
+        Here is your page
+    </p>
 </body>
 </html>
